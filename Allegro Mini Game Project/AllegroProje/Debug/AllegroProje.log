@@ -1,0 +1,6 @@
+﻿  AllegroProje.cpp
+C:\Users\Elmas\source\repos\AllegroProje\AllegroProje\AllegroProje.cpp(160,9): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Elmas\source\repos\AllegroProje\AllegroProje\AllegroProje.cpp(172,8): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\Elmas\source\repos\AllegroProje\AllegroProje\AllegroProje.cpp(172,8): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Elmas\source\repos\AllegroProje\AllegroProje\AllegroProje.cpp(384,9): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  AllegroProje.vcxproj -> C:\Users\Elmas\source\repos\AllegroProje\Debug\AllegroProje.exe
